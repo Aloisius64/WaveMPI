@@ -1,0 +1,84 @@
+﻿  Runner.c
+Runner.c(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(40): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(46): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(49): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(52): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(53): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(55): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(59): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(60): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(62): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(79): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strset. See online help for details.
+Runner.c(81): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(86): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(87): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(88): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(89): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(95): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(96): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(100): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(101): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(102): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(105): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(106): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(107): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(108): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(109): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(111): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(112): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(115): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Runner.c(116): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(117): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(122): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strset. See online help for details.
+Runner.c(124): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(128): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+Runner.c(129): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(130): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(131): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Runner.c(132): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating code
+  Finished generating code
+  Launcher.vcxproj -> C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\Launcher.exe

@@ -1,0 +1,106 @@
+//	Interesting results
+void life_smooth_function(struct CALModel2D* life, int i, int j){
+	int k = 0;
+	CALreal tmp = 0.0f, sum = 0.0f;
+
+	if(!(i==0 || j==0 || i==calglGetGlobalSettings()->rows-1 || j==calglGetGlobalSettings()->columns-1)){
+		for(k=1; k<9; k++){
+			sum += calGetX2Dr(life, Q_old, i, j, k);
+		}
+		tmp = sum/8.0f;
+		//tmp = tmp > max ? max : tmp;
+		//tmp = tmp < min ? min : tmp;
+		calSet2Dr(life, Q_old, i, j, tmp);
+
+		sum = 0.0f;
+		for(k=1; k<9; k++){
+			sum += calGetX2Dr(life, Q_old_2_steps, i, j, k);
+		}
+		tmp = sum/2.0f;
+		tmp = tmp > max ? max : tmp;
+		tmp = tmp < min ? min : tmp;
+		calSet2Dr(life, Q_old_2_steps, i, j, tmp);
+	}
+}
+
+void life_smooth_function(struct CALModel2D* life, int i, int j){
+	int k = 0, n = 5;
+	CALreal tmp = 0.0f, sum = 0.0f;
+
+	if(!(i==0 || j==0 || i==calglGetGlobalSettings()->rows-1 || j==calglGetGlobalSettings()->columns-1)){
+		if(life_simulation->step%5==0){
+			for(k=0; k<9; k++){
+				sum += calGetX2Dr(life, Q_old, i, j, k);
+			}
+			tmp = sum/n;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old, i, j, tmp);
+
+			sum = 0.0f;
+			for(k=0; k<9; k++){
+				sum += calGetX2Dr(life, Q_old_2_steps, i, j, k);
+			}
+			tmp = sum/n;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old_2_steps, i, j, tmp);
+		}
+	}
+}
+
+void life_smooth_function(struct CALModel2D* life, int i, int j){
+	int k = 0, n = 9;
+	CALreal tmp = 0.0f, sum = 0.0f;
+
+	if(!(i==0 || j==0 || i==calglGetGlobalSettings()->rows-1 || j==calglGetGlobalSettings()->columns-1)){
+		if(life_simulation->step%5==0){
+			for(k=0; k<n; k++){
+				sum += calGetX2Dr(life, Q_old, i, j, k);
+			}
+			tmp = sum/n;
+			tmp += 5.0f;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old, i, j, tmp);
+
+			sum = 0.0f;
+			for(k=0; k<n; k++){
+				sum += calGetX2Dr(life, Q_old_2_steps, i, j, k);
+			}
+			tmp = sum/n;
+			tmp += 5.0f;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old_2_steps, i, j, tmp);
+		}
+	}
+}
+
+void life_smooth_function(struct CALModel2D* life, int i, int j){
+	int k = 0, n = 5;
+	CALreal tmp = 0.0f, sum = 0.0f;
+
+	if(!(i==0 || j==0 || i==calglGetGlobalSettings()->rows-1 || j==calglGetGlobalSettings()->columns-1)){
+		if(life_simulation->step%5==0){
+			for(k=0; k<n; k++){
+				sum += calGetX2Dr(life, Q_old, i, j, k);
+			}
+			tmp = sum/n;
+			tmp *= 2;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old, i, j, tmp);
+
+			sum = 0.0f;
+			for(k=0; k<n; k++){
+				sum += calGetX2Dr(life, Q_old_2_steps, i, j, k);
+			}
+			tmp = sum/n;
+			tmp *= 2;
+			//tmp = tmp > max ? max : tmp;
+			//tmp = tmp < min ? min : tmp;
+			calSet2Dr(life, Q_old_2_steps, i, j, tmp);
+		}
+	}
+}

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPI_Apps", "MPI_Apps\MPI_Apps.vcxproj", "{B6536077-8845-4B50-BC46-69E13297DDD8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaveClusterMPI", "WaveClusterMPI\WaveClusterMPI.vcxproj", "{98962046-3AF0-4069-8A5D-EE3F92BD3BD1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Launcher", "Launcher\Launcher.vcxproj", "{66C5218A-0B21-4EBF-8278-3EFEAD3D289A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaveSingle", "WaveSingle\WaveSingle.vcxproj", "{BB18D480-249A-4974-A84F-A8E1FEB45588}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LifeMPI", "LifeMPI\LifeMPI.vcxproj", "{11702F56-605A-448E-B662-E0D75F3636B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6536077-8845-4B50-BC46-69E13297DDD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6536077-8845-4B50-BC46-69E13297DDD8}.Debug|Win32.Build.0 = Debug|Win32
+		{B6536077-8845-4B50-BC46-69E13297DDD8}.Release|Win32.ActiveCfg = Release|Win32
+		{B6536077-8845-4B50-BC46-69E13297DDD8}.Release|Win32.Build.0 = Release|Win32
+		{98962046-3AF0-4069-8A5D-EE3F92BD3BD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98962046-3AF0-4069-8A5D-EE3F92BD3BD1}.Debug|Win32.Build.0 = Debug|Win32
+		{98962046-3AF0-4069-8A5D-EE3F92BD3BD1}.Release|Win32.ActiveCfg = Release|Win32
+		{98962046-3AF0-4069-8A5D-EE3F92BD3BD1}.Release|Win32.Build.0 = Release|Win32
+		{66C5218A-0B21-4EBF-8278-3EFEAD3D289A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66C5218A-0B21-4EBF-8278-3EFEAD3D289A}.Debug|Win32.Build.0 = Debug|Win32
+		{66C5218A-0B21-4EBF-8278-3EFEAD3D289A}.Release|Win32.ActiveCfg = Release|Win32
+		{66C5218A-0B21-4EBF-8278-3EFEAD3D289A}.Release|Win32.Build.0 = Release|Win32
+		{BB18D480-249A-4974-A84F-A8E1FEB45588}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB18D480-249A-4974-A84F-A8E1FEB45588}.Debug|Win32.Build.0 = Debug|Win32
+		{BB18D480-249A-4974-A84F-A8E1FEB45588}.Release|Win32.ActiveCfg = Release|Win32
+		{BB18D480-249A-4974-A84F-A8E1FEB45588}.Release|Win32.Build.0 = Release|Win32
+		{11702F56-605A-448E-B662-E0D75F3636B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11702F56-605A-448E-B662-E0D75F3636B8}.Debug|Win32.Build.0 = Debug|Win32
+		{11702F56-605A-448E-B662-E0D75F3636B8}.Release|Win32.ActiveCfg = Release|Win32
+		{11702F56-605A-448E-B662-E0D75F3636B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

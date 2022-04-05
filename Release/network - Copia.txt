@@ -1,0 +1,11 @@
+NumHosts
+2
+Hosts
+192.168.1.101
+2
+192.168.1.102
+1
+Directory
+Users\Aloisius\Documents\Wave
+Executable
+WaveClusterMPI.exe

@@ -1,0 +1,77 @@
+﻿  LifeCA.c
+  Main.c
+Main.c(162): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(163): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(166): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(167): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(171): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(172): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(176): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(177): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(181): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(185): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(186): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(189): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(190): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(193): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(197): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+Main.c(210): warning C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strset. See online help for details.
+Main.c(211): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Main.c(212): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Main.c(213): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Main.c(314): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(319): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(324): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(329): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(334): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(339): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(344): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(349): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.c(359): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(364): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(369): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(374): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(379): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(384): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(389): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Main.c(394): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+c:\users\aloisius\documents\visual studio 2012\projects\opencal\opencal\source\cal3d.c(593): warning C4716: 'calApplyElementaryProcess3D' : must return a value
+c:\users\aloisius\documents\visual studio 2012\projects\opencal\opencal\source\cal2d.c(658): warning C4716: 'calApplyElementaryProcess2D' : must return a value
+  Finished generating code
+freeglut_static.lib(freeglut_window.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_window.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_init.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_init.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_callbacks.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_callbacks.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_display.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_display.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_main.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_main.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_font.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_font.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_structure.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_structure.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_state.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_state.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_gamemode.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_gamemode.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_input_devices.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_input_devices.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_joystick.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_joystick.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_spaceball.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_spaceball.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_cursor.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_cursor.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_menu.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_menu.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_font_data.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_font_data.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_stroke_roman.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_stroke_roman.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+freeglut_static.lib(freeglut_stroke_mono_roman.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'freeglut_static.lib(freeglut_stroke_mono_roman.obj)' or at 'C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\vc110.pdb'; linking object as if no debug info
+  LifeMPI.vcxproj -> C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\LifeMPI.exe

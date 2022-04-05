@@ -1,0 +1,9 @@
+﻿  Main.cpp
+Main.cpp(9): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Main.cpp(10): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Main.cpp(49): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(51): warning C4101: 'clientMode' : unreferenced local variable
+Main.cpp(87): warning C4101: 'request' : unreferenced local variable
+  Generating code
+  Finished generating code
+  MPI_Apps.vcxproj -> C:\Users\Aloisius\Documents\Visual Studio 2012\Projects\MPI_Apps\Release\MPI_Apps.exe

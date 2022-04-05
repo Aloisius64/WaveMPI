@@ -1,0 +1,19 @@
+CellularAutomataRows:
+100
+CellularAutomataColumns:
+100
+CellularAutomataSteps:
+1000
+ProccessorsNumber:
+3
+MasterProcess:
+0
+Rows:
+1
+Columns:
+2
+SlaveDisplacement:
+1 2
+Executable:
+WaveClusterMPI.exe
+LifeMPI.exe
